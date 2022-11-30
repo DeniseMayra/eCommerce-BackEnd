@@ -1,0 +1,1 @@
+[{"id":"09e1df77-c141-4fb6-8e46-cb10e952dde2","products":[{"name":"iphone 12 mini","price":"1050","description":"chiquito pero poderoso "}]},{"id":"f869d08b-6ed4-49ba-af07-8952dac14ab7","products":[]}]

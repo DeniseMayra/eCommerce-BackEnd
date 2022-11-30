@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeniseMayra/eCommerce-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeniseMayra/eCommerce-BackEnd/issues"
+  },
+  "homepage": "https://github.com/DeniseMayra/eCommerce-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
